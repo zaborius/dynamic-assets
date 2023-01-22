@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1f532c0390f7e4e49813bc1a39257c42
+  m_SerializeEntries:
+  - m_GUID: 77280c1f619edc24aa0bc99f05b162e7
+    m_Address: Assets/Scenes/Scene1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: dd667b616e20ed14f8018efa130cf499
+    m_Address: Assets/Scenes/Scene2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 8ee8acbe486b4b0408f8c8531de8c2f3
+    m_Address: Assets/Scenes/Scene3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 89644944abd7d6747a3b7159ffe6cc96
+    m_Address: Assets/Prefabs/Scene1Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 16903c2b2f0b7224e815f61dcef9ba08
+    m_Address: Assets/Prefabs/Scene2Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 71dc3b5f50eef634d879c38a2b8f802a
+    m_Address: Assets/Prefabs/Scene3Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 10a1c947f02240842af8a0f0940c3e2a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 40e7b4b820b1de54e82af2113456498e, type: 2}
+    - {fileID: 11400000, guid: a32ba3ac5b688a84884281e02ba41b71, type: 2}
